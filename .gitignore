@@ -1,0 +1,6 @@
+
+stop_fork_ldpreload/test
+
+stop_fork_ldpreload/inject.so
+
+stop_fork_ldpreload/inject.dylib
