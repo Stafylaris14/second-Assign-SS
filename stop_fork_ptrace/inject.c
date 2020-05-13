@@ -17,7 +17,7 @@ const char* callname(long call);
 #define REG(reg) reg.orig_eax
 #endif
 
-int main(int argc, char* argv[]) {   
+int main() {   
   pid_t child;
 
 
