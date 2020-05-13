@@ -1,63 +1,63 @@
-system call execve from pid 8053
-system call brk from pid 8053
-system call brk from pid 8053
-system call arch_prctl from pid 8053
-system call arch_prctl from pid 8053
-system call access from pid 8053
-system call access from pid 8053
-system call openat from pid 8053
-system call openat from pid 8053
-system call fstat from pid 8053
-system call fstat from pid 8053
-system call mmap from pid 8053
-system call mmap from pid 8053
-system call close from pid 8053
-system call close from pid 8053
-system call openat from pid 8053
-system call openat from pid 8053
-system call read from pid 8053
-system call read from pid 8053
-system call pread64 from pid 8053
-system call pread64 from pid 8053
-system call pread64 from pid 8053
-system call pread64 from pid 8053
-system call pread64 from pid 8053
-system call pread64 from pid 8053
-system call fstat from pid 8053
-system call fstat from pid 8053
-system call mmap from pid 8053
-system call mmap from pid 8053
-system call pread64 from pid 8053
-system call pread64 from pid 8053
-system call pread64 from pid 8053
-system call pread64 from pid 8053
-system call pread64 from pid 8053
-system call pread64 from pid 8053
-system call mmap from pid 8053
-system call mmap from pid 8053
-system call mprotect from pid 8053
-system call mprotect from pid 8053
-system call mmap from pid 8053
-system call mmap from pid 8053
-system call mmap from pid 8053
-system call mmap from pid 8053
-system call mmap from pid 8053
-system call mmap from pid 8053
-system call mmap from pid 8053
-system call mmap from pid 8053
-system call close from pid 8053
-system call close from pid 8053
-system call arch_prctl from pid 8053
-system call arch_prctl from pid 8053
-system call mprotect from pid 8053
-system call mprotect from pid 8053
-system call mprotect from pid 8053
-system call mprotect from pid 8053
-system call mprotect from pid 8053
-system call mprotect from pid 8053
-system call munmap from pid 8053
-system call munmap from pid 8053
-system call clone from pid 8053
-system call clone from pid 8053
-system call unknown from pid 8053
-system call exit_group from pid 8053
+system call execve
+system call brk
+system call brk
+system call arch_prctl
+system call arch_prctl
+system call access
+system call access
+system call openat
+system call openat
+system call fstat
+system call fstat
+system call mmap
+system call mmap
+system call close
+system call close
+system call openat
+system call openat
+system call read
+system call read
+system call pread64
+system call pread64
+system call pread64
+system call pread64
+system call pread64
+system call pread64
+system call fstat
+system call fstat
+system call mmap
+system call mmap
+system call pread64
+system call pread64
+system call pread64
+system call pread64
+system call pread64
+system call pread64
+system call mmap
+system call mmap
+system call mprotect
+system call mprotect
+system call mmap
+system call mmap
+system call mmap
+system call mmap
+system call mmap
+system call mmap
+system call mmap
+system call mmap
+system call close
+system call close
+system call arch_prctl
+system call arch_prctl
+system call mprotect
+system call mprotect
+system call mprotect
+system call mprotect
+system call mprotect
+system call mprotect
+system call munmap
+system call munmap
+system call clone
+system call clone
+system call unknown
+system call exit_group

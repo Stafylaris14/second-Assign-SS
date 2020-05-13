@@ -32,7 +32,7 @@ int main(int argc, char* argv[]) {
     while(waitpid(child, &status, 0) && ! WIFEXITED(status)) {
       struct user_regs_struct regs; 
       ptrace(PTRACE_GETREGS, child, NULL, &regs);
-      fprintf(stderr, "system call %s from pid %d\n", callname(REG(regs)), child);
+      fprintf(stderr, "system call %s\n", callname(REG(regs)));
       ptrace(PTRACE_SYSCALL, child, NULL, NULL);
     }
   }
